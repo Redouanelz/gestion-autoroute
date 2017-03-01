@@ -1,0 +1,11 @@
+C:\Users\Rlz\Desktop\RlzProject\ActiveServerPages.NET\GestionPostes\GestionPostes\bin\Debug\GestionPostes.exe
+C:\Users\Rlz\Desktop\RlzProject\ActiveServerPages.NET\GestionPostes\GestionPostes\bin\Debug\GestionPostes.pdb
+C:\Users\Rlz\Desktop\RlzProject\ActiveServerPages.NET\GestionPostes\GestionPostes\obj\x86\Debug\GestionPostes.Login.resources
+C:\Users\Rlz\Desktop\RlzProject\ActiveServerPages.NET\GestionPostes\GestionPostes\obj\x86\Debug\GestionPostes.Menu.resources
+C:\Users\Rlz\Desktop\RlzProject\ActiveServerPages.NET\GestionPostes\GestionPostes\obj\x86\Debug\GestionPostes.Properties.Resources.resources
+C:\Users\Rlz\Desktop\RlzProject\ActiveServerPages.NET\GestionPostes\GestionPostes\obj\x86\Debug\GestionPostes.csproj.GenerateResource.Cache
+C:\Users\Rlz\Desktop\RlzProject\ActiveServerPages.NET\GestionPostes\GestionPostes\obj\x86\Debug\GestionPostes.exe
+C:\Users\Rlz\Desktop\RlzProject\ActiveServerPages.NET\GestionPostes\GestionPostes\obj\x86\Debug\GestionPostes.pdb
+C:\Users\Rlz\Desktop\RlzProject\ActiveServerPages.NET\GestionPostes\GestionPostes\obj\x86\Debug\GestionPostes.Ajouter.resources
+C:\Users\Rlz\Desktop\RlzProject\ActiveServerPages.NET\GestionPostes\GestionPostes\obj\x86\Debug\GestionPostes.csprojResolveAssemblyReference.cache
+C:\Users\Rlz\Desktop\RlzProject\ActiveServerPages.NET\GestionPostes\GestionPostes\obj\x86\Debug\GestionPostes.Consultez.resources
